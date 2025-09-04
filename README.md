@@ -17,5 +17,3 @@ I'm a 2nd yr ECE student at NIT Rourkela.<br>Interested in Embedded systems, Mic
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ayusman-1005&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
