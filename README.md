@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 2nd yr ECE student at NIT Rourkela.<br>Interested in Embedded systems, Microcontrollers and Drone electronics.
+I'm a 2nd yr ECE student at NIT Rourkela.<br>Interested in Embedded systems, Microcontrollers, VLSI design, PCB design, and Drone electronics.
 
 
 ## 🌐 Socials:
