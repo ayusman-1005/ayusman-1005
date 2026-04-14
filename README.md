@@ -27,7 +27,8 @@
 
 ##  Featured Projects
 
-###  FPGA-Based Autonomous Maze Robot
+###  FPGA-Based Autonomous Maze Robot (E-Yantra Competition 2025–26)
+- Developed under IIT Bombay’s E-Yantra Robotics Competition  
 - Built using **Verilog on FPGA** with real-time control  
 - Implemented **DFS algorithm in hardware** for path planning  
 - Integrated sensors + motor control with **closed-loop feedback**  
