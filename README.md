@@ -25,13 +25,6 @@
 
 ---
 
-##  GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ayusman-1005&show_icons=true&theme=shadow_blue&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusman-1005&layout=compact&theme=shadow_blue&hide_border=true)
-
----
-
 ##  Featured Projects
 
 ###  FPGA-Based Autonomous Maze Robot
@@ -40,18 +33,6 @@
 - Integrated sensors + motor control with **closed-loop feedback**  
 - Included **Bluetooth telemetry & runtime tuning**  
 - Designed a **RISC-V processor (single-cycle)** as part of system  
-
- Demo: https://youtu.be/wyd_Pq7htc4  
-
----
-
-###  4-DOF Wi-Fi Controlled Robotic Arm
-- ESP32-based wireless control system  
-- Implemented **Inverse Kinematics (IK)** in Python  
-- Built real-time GUI for motion control & trajectory planning  
-- Smooth motion using interpolation algorithms  
-
-🔗 Repo: https://github.com/ayusman-1005/4-DOF-Wi-Fi-Controlled-Robotic-Arm-using-ESP32  
 
 ---
 
